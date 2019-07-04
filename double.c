@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int timesTwo(int n){
-	return n*3;
+	return n*2;
 }
 
 int main(){
